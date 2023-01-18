@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "outDir": "public/scripts",
+    "target": "ES6",
+    "moduleResolution": "node"
+  },
+  "files": [
+    "src/index.ts"
+  ],
+  "include": [
+    "src"
+  ]
+}
